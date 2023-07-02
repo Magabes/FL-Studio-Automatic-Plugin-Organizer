@@ -19,5 +19,13 @@ C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Generat
 
 **BEFORE RUNNING ANY OF THE PYTHON SCRIPTS**
 
-
+![Screenshot_262](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/51fcb389-2149-4e71-b40b-65bd48920aa6)
 ![Image](https://user-images.githubusercontent.com/90144228/250405164-f7ed76cf-6bae-4df3-82e9-17b6d5db599b.png)
+
+
+**EXAMPLE OF HOW IT'LL LOOK**
+
+![Screenshot_264](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/697d62fa-220c-4220-9794-d31b4daa4227)
+![Screenshot_265](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/7681a2db-1541-4d35-914a-23f341b2c5d8)
+
+
