@@ -24,8 +24,11 @@ organizeEffectsCUSTOM.py or organizeGeneratorsCUSTOM.py - You choose both paths.
 
 - Results for the default scripts -
 C:\Users\USERNAMEl\Documents\Image-Line\FL Studio\Presets\Plugin database\Effects\USER\[COMPANY] (Such as Waves)
+
 or
+
 C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Generators\USER\[COMPANY] (Such as Roland)
+
 
 **BEFORE RUNNING ANY OF THE PYTHON SCRIPTS**
 
