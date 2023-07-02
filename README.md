@@ -32,6 +32,9 @@ C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Generat
 
 **BEFORE RUNNING ANY OF THE PYTHON SCRIPTS**
 
+Once you're done with the steps below, you might see some Fruity plugins on the New folder. 
+Just delete them. Most of them start with 'Fruity'; should be easy to spot.
+
 ![Screenshot_262](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/51fcb389-2149-4e71-b40b-65bd48920aa6)
 
 ![Image](https://user-images.githubusercontent.com/90144228/250405164-f7ed76cf-6bae-4df3-82e9-17b6d5db599b.png)
