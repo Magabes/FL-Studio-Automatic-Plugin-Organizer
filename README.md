@@ -8,12 +8,11 @@ This script is a tool to organize **FL Studio** plugins by vendor name (Eventide
 
 TO-DO: Make sure it's not only compatible for the C: Drive.
 
+
 organizeEffects.py or organizeGenerators.py
 
 Default installation - C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\New 
-
 **or** 
-
 C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\New
 
 USERNAME in the folder paths _should_ automatically be set to your Windows username. if not, run the CUSTOM scripts.
