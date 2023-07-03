@@ -31,7 +31,7 @@ Results for the default scripts
 
 **BEFORE RUNNING ANY OF THE PYTHON SCRIPTS**
 
-Once you're done with the steps below, you might see some Fruity plugins on the New folder. 
+Once you're done with the steps below, you might see some Fruity plugins on the "New" VST folder. 
 Just delete them. Most of them start with 'Fruity'; should be easy to spot.
 
 ![Screenshot_262](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/51fcb389-2149-4e71-b40b-65bd48920aa6)
