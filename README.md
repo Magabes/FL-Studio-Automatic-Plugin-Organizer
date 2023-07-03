@@ -10,25 +10,23 @@ This script is a tool to organize **FL Studio** plugins by vendor name (Eventide
 **TO-DO**: Make sure it's not only compatible for the C: Drive.
 
 
-organizeEffects.py or organizeGenerators.py
+**organizeEffects.py or organizeGenerators.py**
 
-**Default installation** - C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\New 
+**Default installation** 
+- C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\New
 
-**or** 
-
-C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\New
+- C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\New
 
 
 **USERNAME** in the folder paths _should_ automatically be set to your Windows username. if not, run the **CUSTOM** scripts.
 
-organizeEffectsCUSTOM.py or organizeGeneratorsCUSTOM.py - You choose both paths.
+**organizeEffectsCUSTOM.py or organizeGeneratorsCUSTOM.py** - You choose both paths.
 
-- Results for the default scripts -
-C:\Users\USERNAMEl\Documents\Image-Line\FL Studio\Presets\Plugin database\Effects\USER\ [COMPANY] (Such as Waves)
+Results for the default scripts
 
-or
+- C:\Users\USERNAMEl\Documents\Image-Line\FL Studio\Presets\Plugin database\Effects\USER\ [COMPANY] (Such as Waves)
 
-C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Generators\USER\ [COMPANY] (Such as Roland)
+- C:\Users\USERNAME\Documents\Image-Line\FL Studio\Presets\Plugin database\Generators\USER\ [COMPANY] (Such as Roland)
 
 
 **BEFORE RUNNING ANY OF THE PYTHON SCRIPTS**
