@@ -45,7 +45,5 @@ Just delete them. Most of them start with 'Fruity'; should be easy to spot.
 
 ![Screenshot_265](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/7681a2db-1541-4d35-914a-23f341b2c5d8)
 
-![Screenshot_269](https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer/assets/90144228/3010a934-c753-48bb-ab1f-891124f453bd)
-
 
 
